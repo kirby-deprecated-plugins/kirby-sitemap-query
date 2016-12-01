@@ -1,0 +1,8 @@
+{
+  "name": "kirby-sitemap-query",
+  "description": "A sitemap xml plugin without boundaries",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
